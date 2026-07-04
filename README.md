@@ -21,6 +21,20 @@
 
 ---
 
+## 🧱 Architecture & Engineering
+
+![Clean Architecture](https://img.shields.io/badge/CLEAN_ARCHITECTURE-02569B?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge)
+![DDD](https://img.shields.io/badge/DDD-6DB33F?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/MICROSERVICES-FF6F00?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/DISTRIBUTED_SYSTEMS-007ACC?style=for-the-badge)
+![Event Driven](https://img.shields.io/badge/EVENT_DRIVEN-FF6600?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-007ACC?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-5C2D91?style=for-the-badge)
+![Multi Tenant](https://img.shields.io/badge/MULTI_TENANT-2E8B57?style=for-the-badge)
+
+---
+
 ## 🛠️ Technology Stack
 
 ### 💻 Languages
@@ -98,14 +112,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madiseh&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madiseh&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 📊 Professional Analytics
 
 ### 🎯 Career Overview
@@ -122,22 +128,10 @@
 
 ---
 
-## 🧱 Architecture & Engineering
-
-![Clean Architecture](https://img.shields.io/badge/CLEAN_ARCHITECTURE-02569B?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge)
-![DDD](https://img.shields.io/badge/DDD-6DB33F?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/MICROSERVICES-FF6F00?style=for-the-badge)
-![CQRS](https://img.shields.io/badge/CQRS-007ACC?style=for-the-badge)
-![Event Driven](https://img.shields.io/badge/EVENT_DRIVEN-FF6600?style=for-the-badge)
-
----
-
 ## 🌍 Languages
 
 - 🇬🇧 English — Professional Working Proficiency
 - 🇩🇪 German — A1
-- 🇹🇷 Turkish — A2, in progress
 - 🇮🇷 Persian — Native
 
 ---
